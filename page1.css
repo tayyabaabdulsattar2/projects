@@ -1,0 +1,596 @@
+                                        .nb {
+                                            /* Rectangle 47 */
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 2300px;
+                                            height: 125px;
+                                            left: 8px;
+                                            top: 0px;
+                                            background: #FFFFFF;
+                                            box-shadow: 0px 4px 20px rgba(217, 217, 217, 0.79);
+                                        }
+                                        
+                                        .port {
+                                            /* My portfolio */
+                                            position: absolute;
+                                            width: 299px;
+                                            height: 65px;
+                                            left: 78px;
+                                            top: 45px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 800;
+                                            font-size: 45px;
+                                            line-height: 65px;
+                                            /* identical to box height, or 144% */
+                                            color: #565252;
+                                        }
+                                        
+                                        .about {
+                                            /* About me */
+                                            position: absolute;
+                                            width: 125px;
+                                            height: 38px;
+                                            left: 600px;
+                                            top: 55px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 20px;
+                                            line-height: 38px;
+                                            /* identical to box height */
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .service {
+                                            /* Services */
+                                            position: absolute;
+                                            width: 107px;
+                                            height: 38px;
+                                            left: 730px;
+                                            top: 55px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 20px;
+                                            line-height: 38px;
+                                            /* identical to box height */
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .contact {
+                                            /* Contact me */
+                                            position: absolute;
+                                            width: 141px;
+                                            height: 30px;
+                                            left: 850px;
+                                            top: 55px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 20px;
+                                            line-height: 38px;
+                                            /* identical to box height */
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .contact2 {
+                                            /* Contac me */
+                                            position: absolute;
+                                            width: 250px;
+                                            height: 35px;
+                                            left: 950px;
+                                            top: 56px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 300;
+                                            font-size: 30px;
+                                            line-height: 65px;
+                                            /* identical to box height, or 144% */
+                                            color: #000000;
+                                        }
+                                        
+                                        .rectangle {
+                                            /*Rectangle74*/
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 205px;
+                                            height: 88px;
+                                            left: 1000px;
+                                            top: 30px;
+                                            background: #D6A349;
+                                            border: 3px solid #D6A349;
+                                            border-radius: 12px;
+                                            -webkit-border-radius: 12px;
+                                            -moz-border-radius: 12px;
+                                            -ms-border-radius: 12px;
+                                            -o-border-radius: 10px;
+                                        }
+                                        
+                                        .hello {
+                                            /* Hello! */
+                                            position: absolute;
+                                            width: 202px;
+                                            height: 85px;
+                                            left: 126px;
+                                            top: 320px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 50px;
+                                            line-height: 105px;
+                                            /* identical to box height */
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .rao {
+                                            /* I’m Zunaira Rao */
+                                            position: absolute;
+                                            width: 698px;
+                                            height: 150px;
+                                            left: 126px;
+                                            top: 375px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 85px;
+                                            line-height: 150px;
+                                            /* identical to box height */
+                                            color: #D7271C;
+                                        }
+                                        
+                                        .free {
+                                            /* Freelance designer & develper */
+                                            position: absolute;
+                                            width: 681px;
+                                            height: 204px;
+                                            left: 126px;
+                                            top: 470px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 50px;
+                                            line-height: 90px;
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .free1 {
+                                            /* Freelance designer & develper */
+                                            position: absolute;
+                                            width: 681px;
+                                            height: 204px;
+                                            left: 126px;
+                                            top: 520px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 50px;
+                                            line-height: 90px;
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .pic {
+                                            /*Ellipse59*/
+                                            position: absolute;
+                                            width: 521.48px;
+                                            height: 521.04px;
+                                            left: 700px;
+                                            top: 264.45px;
+                                            background: url(./Ellipse\ 60.png), #FFFFFF;
+                                            background-position:
+                                        }
+                                        
+                                        .hirerect {
+                                            /* Rectangle 57 */
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 265px;
+                                            height: 110px;
+                                            left: 205px;
+                                            top: 462px;
+                                            border: 3px solid #D6A349;
+                                            border-radius: 12px;
+                                        }
+                                        
+                                        .hirerect2 {
+                                            /* Hire me */
+                                            position: absolute;
+                                            width: 175px;
+                                            height: 65px;
+                                            left: 269px;
+                                            top: 625px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 35px;
+                                            line-height: 65px;
+                                            /* identical to box height, or 118% */
+                                            color: #5B5959;
+                                            text-align: center;
+                                        }
+                                        
+                                        .pic2 {
+                                            /*Ellipse59*/
+                                            position: absolute;
+                                            width: 450.48px;
+                                            height: 521.04px;
+                                            left: 120px;
+                                            top: 894.45px;
+                                            background: url(), #FFFFFF;
+                                        }
+                                        
+                                        #back1 {
+                                            /*Ellipse62*/
+                                            position: absolute;
+                                            width: 421.48px;
+                                            height: 521.04px;
+                                            left: 80px;
+                                            top: 2401.39px;
+                                            background: url(./Ellipse\ 62.png), #FFFFFF;
+                                        }
+                                        
+                                        .line {
+                                            /* Line 15 */
+                                            position: absolute;
+                                            width: 295px;
+                                            height: 0px;
+                                            left: 770px;
+                                            top: 1005px;
+                                            border: 10px solid #D7271C;
+                                        }
+                                        
+                                        .me {
+                                            /* About Me */
+                                            position: absolute;
+                                            width: 367px;
+                                            height: 110px;
+                                            left: 768px;
+                                            top: 907px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 60px;
+                                            line-height: 120px;
+                                            /* identical to box height */
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .para {
+                                            /* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout */
+                                            position: absolute;
+                                            width: 682px;
+                                            height: 500px;
+                                            left: 768px;
+                                            top: 1058px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 22px;
+                                            line-height: 35px;
+                                            /* or 186% */
+                                            color: #000000;
+                                        }
+                                        
+                                        .cv {
+                                            /* Download cv */
+                                            position: absolute;
+                                            width: 375px;
+                                            height: 65px;
+                                            left: 978px;
+                                            top: 2294px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 45px;
+                                            line-height: 60px;
+                                            /* identical to box height, or 118% */
+                                            color: #000000;
+                                        }
+                                        
+                                        .cv2 {
+                                            /* Rectangle 59 */
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 320px;
+                                            height: 86px;
+                                            left: 760px;
+                                            top: 1373px;
+                                            border: 3px solid #D6A349;
+                                            border-radius: 12px;
+                                            text-align: center;
+                                        }
+                                        
+                                        .service1 {
+                                            /* Services */
+                                            position: absolute;
+                                            width: 342px;
+                                            height: 120px;
+                                            left: 78px;
+                                            top: 1450px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 80px;
+                                            line-height: 120px;
+                                            /* identical to box height */
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .sline {
+                                            /* Line 16 */
+                                            position: absolute;
+                                            width: 295px;
+                                            height: -1px;
+                                            left: 101px;
+                                            top: 1570px;
+                                            border: 10px solid #D7271C;
+                                        }
+                                        
+                                        .para2 {
+                                            /* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout */
+                                            position: absolute;
+                                            width: 1049px;
+                                            height: 240px;
+                                            left: 70px;
+                                            top: 1640px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 22px;
+                                            line-height: 35px;
+                                            /* or 186% */
+                                            color: #000000;
+                                        }
+                                        
+                                        .uxi {
+                                            /*UXresearcher*/
+                                            position: absolute;
+                                            width: 450px;
+                                            height: 285px;
+                                            left: 130px;
+                                            top: 1775px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 50px;
+                                            line-height: 105px;
+                                            /*identicaltoboxheight*/
+                                            color: #5B5959;
+                                            background: url(/Ellipse\ rectangle60.png) rgba(217, 217, 217, 0.79);
+                                            border-radius: 33px;
+                                            text-align: center;
+                                            padding-top: 90px;
+                                        }
+                                        
+                                        .uxline {
+                                            /* Line 17 */
+                                            position: absolute;
+                                            width: 345px;
+                                            height: 0px;
+                                            left: 185px;
+                                            top: 1950px;
+                                            border: 10px solid #D7271C;
+                                        }
+                                        
+                                        .uxr {
+                                            /*Rectangle64*/
+                                            position: absolute;
+                                            width: 732px;
+                                            height: 481px;
+                                            left: 137px;
+                                            top: 1774px;
+                                            /*background: url(/Ellipse\ rectangle60.png) rgba(217, 217, 217, 0.79);
+                                        */
+                                            filter: blur(4px);
+                                            border-radius: 33px;
+                                            -webkit-border-radius: 33px;
+                                            -moz-border-radius: 33px;
+                                            -ms-border-radius: 33px;
+                                            -o-border-radius: 33px;
+                                        }
+                                        
+                                        .ux {
+                                            /* Rectangle 60 */
+                                            position: absolute;
+                                            width: 450px;
+                                            height: 276px;
+                                            left: 130px;
+                                            top: 1779px;
+                                            background: url(/Ellipse\ rectangle60.png) rgba(217, 217, 217, 0.79);
+                                            border-radius: 33px;
+                                        }
+                                        
+                                        .container {
+                                            position: relative;
+                                        }
+                                        
+                                        .ux1 {
+                                            /* Rectangle 60 */
+                                            position: absolute;
+                                            width: 459px;
+                                            height: 285px;
+                                            left: 130px;
+                                            top: 1823px;
+                                            background: url(/Ellipse\ rectangle60.png) rgba(217, 217, 217, 0.79);
+                                            border-radius: 33px;
+                                        }
+                                        
+                                        .uxv {
+                                            /*UXresearcher*/
+                                            position: absolute;
+                                            width: 462px;
+                                            height: 285px;
+                                            left: 130px;
+                                            top: 1823px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 50px;
+                                            line-height: 105px;
+                                            /*identicaltoboxheight*/
+                                            color: #5B5959;
+                                            background: url(/Ellipse\ rectangle60.png) rgba(217, 217, 217, 0.79);
+                                            border-radius: 33px;
+                                            text-align: center;
+                                            padding-top: 98px;
+                                        }
+                                        
+                                        .uxj {
+                                            /*Rectangle64*/
+                                            position: absolute;
+                                            width: 877px;
+                                            height: 470px;
+                                            left: 131px;
+                                            top: 1809px;
+                                            /*background: url(/Ellipse\ rectangle60.png) rgba(217, 217, 217, 0.79);
+                                        */
+                                            filter: blur(4px);
+                                            border-radius: 33px;
+                                            -webkit-border-radius: 33px;
+                                            -moz-border-radius: 33px;
+                                            -ms-border-radius: 33px;
+                                            -o-border-radius: 33px;
+                                        }
+                                        
+                                        .uxline1 {
+                                            /* Line 17 */
+                                            position: absolute;
+                                            width: 365px;
+                                            height: 0px;
+                                            left: 185px;
+                                            top: 2010px;
+                                            border: 10px solid #D7271C;
+                                        }
+                                        
+                                        .contacti {
+                                            /* Contact me */
+                                            position: absolute;
+                                            width: 502px;
+                                            height: 120px;
+                                            left: 92px;
+                                            top: 2660px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 80px;
+                                            line-height: 120px;
+                                            /* identical to box height */
+                                            color: #5B5959;
+                                        }
+                                        
+                                        .uzline {
+                                            /* Line 21 */
+                                            position: absolute;
+                                            width: 445px;
+                                            height: 0px;
+                                            left: 145px;
+                                            top: 2794px;
+                                            border: 10px solid #D7271C;
+                                        }
+                                        
+                                        .formh {
+                                            /* Rectangle 90 */
+                                            position: absolute;
+                                            width: 1936px;
+                                            height: 1120px;
+                                            left: 132px;
+                                            top: 2950px;
+                                            background: #E7BE77;
+                                            border-radius: 33px;
+                                        }
+                                        
+                                        .form1 {
+                                            /* Rectangle 84 */
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 500px;
+                                            height: 110px;
+                                            left: 22px;
+                                            top: 133px;
+                                            background: #FFFFFF;
+                                            border-radius: 20px;
+                                        }
+                                        
+                                        .form2 {
+                                            /*Rectangle84*/
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 500px;
+                                            height: 110px;
+                                            left: 600px;
+                                            top: 133px;
+                                            background: #FFFFFF;
+                                            border-radius: 20px;
+                                            -webkit-border-radius: 20px;
+                                            -moz-border-radius: 20px;
+                                            -ms-border-radius: 20px;
+                                            -o-border-radius: 20px;
+                                        }
+                                        
+                                        .form3 {
+                                            /* Rectangle 84 */
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 500px;
+                                            height: 110px;
+                                            left: 22px;
+                                            top: 293px;
+                                            background: #FFFFFF;
+                                            border-radius: 20px;
+                                        }
+                                        
+                                        .form4 {
+                                            /* Rectangle 84 */
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 500px;
+                                            height: 110px;
+                                            left: 600px;
+                                            top: 293px;
+                                            background: #FFFFFF;
+                                            border-radius: 20px;
+                                        }
+                                        
+                                        .form5 {
+                                            /* Rectangle 88 */
+                                            box-sizing: border-box;
+                                            position: absolute;
+                                            width: 1086px;
+                                            height: 168px;
+                                            left: 22px;
+                                            top: 545px;
+                                            background: #FFFFFF;
+                                            border-radius: 20px;
+                                        }
+                                        
+                                        .fname {
+                                            /* Your first name */
+                                            position: absolute;
+                                            width: 432px;
+                                            height: 65px;
+                                            left: 36px;
+                                            top: 30px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 40px;
+                                            line-height: 65px;
+                                            /* identical to box height, or 162% */
+                                            color: #000000;
+                                        }
+                                        
+                                        .lname {
+                                            /* Your Last name */
+                                            position: absolute;
+                                            width: 432px;
+                                            height: 65px;
+                                            left: 86px;
+                                            top: 50px;
+                                            font-family: 'Poppins';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 40px;
+                                            line-height: 95px;
+                                            /* identical to box height, or 162% */
+                                            color: #000000;
+                                        }
